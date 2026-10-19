@@ -2,5 +2,5 @@
 Public
 Hello 
 the computing challenges project file 
-going learning somthings interesting 
+going learning something interesting 
 
