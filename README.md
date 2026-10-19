@@ -1,4 +1,6 @@
 # CO1034
 Public
 Hello 
-its me 
+the computing challenges project file 
+going learning somthings interesting 
+
